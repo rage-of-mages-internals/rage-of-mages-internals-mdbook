@@ -1,0 +1,6 @@
+[book]
+authors = ["madwareru"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Rage Of Mages Internals"
